@@ -32,7 +32,7 @@ open a new tab on your terminal and start flytos. Next you can use the command t
 
     rosrun Object_tracking Object_tracking  
     
-This project was done as a part of my internship at Flytbase Inc. under the guidance of Mr. Pradeep Gaidhani, Mr. Sharvashish Das and Mr. Nitin Gupta  
+This project was done as a part of my internship at Flytbase Inc. under the guidance of Mr. Pradeep Gaidhani, Mr. Sharvashish Das and Mr. Nitin Gupta.   
 ![flyt-base-logo-1](https://user-images.githubusercontent.com/23419376/31042783-7b17bbe6-a5cd-11e7-9004-1383fc45a23a.png)
 
   
